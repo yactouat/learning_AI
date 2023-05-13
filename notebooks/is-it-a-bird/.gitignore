@@ -1,0 +1,6 @@
+*.jpg
+*.png
+*.jpeg
+*.JPG
+!example_bird.jpg
+!example_forest.jpg
