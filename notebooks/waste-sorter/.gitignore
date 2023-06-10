@@ -1,0 +1,8 @@
+*.jpg
+*.png
+*.jpeg
+*.JPG
+!example_bottle_glass.jpg
+!example_juice_plastic_bottle.jpg
+!example_food_scraps.jpg
+!waste_sorting_strasbourg.png
