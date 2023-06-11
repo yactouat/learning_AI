@@ -2,7 +2,8 @@
 *.png
 *.jpeg
 *.JPG
-!example_bottle_glass.jpg
-!example_juice_plastic_bottle.jpg
-!example_food_scraps.jpg
+*Zone.Identifier
+!example_green_waste.jpg
+!example_yellow_waste.jpg
+!example_blue_waste.jpg
 !waste_sorting_strasbourg.png
