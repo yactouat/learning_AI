@@ -4,7 +4,6 @@
   - [What is this?](#what-is-this)
   - [Available notebooks](#available-notebooks)
   - [Datasets to train with](#datasets-to-train-with)
-  - [Models](#models)
   - [Contribution guidelines](#contribution-guidelines)
   - [Code Viz](#code-viz)
   - [Contributors](#contributors)
@@ -16,12 +15,16 @@ This is a repository for learning AI, I started the journey following the excell
 ## Available notebooks
 
 - `notebooks/income-predictor/income-predictor.ipynb` is a notebook using an existing data set to predict if a person makes more than 50k a year (tabular data analysis)
-- `notebooks/jupyter-notebook-101.ipynb` is a notebook to learn the basics of jupyter notebooks
 - `notebooks/is-it-a-bird/is-it-a-bird-creating-a-model-from-your-own-data.ipynb` is a notebook to learn how to create a model from your own data using a birds recognizer as an example (image classifier)
+- `notebooks/jupyter-notebook-101.ipynb` is a notebook to learn the basics of jupyter notebooks
+- `notebooks/movies-recommender/movies-recommender.ipynb` is a simple example of a recommender system
 - `notebooks/movies-reviews-sentiment-analysis/movies-reviews-sentiment-analysis.ipynb` is a notebook using an existing data set to distinguish between positive and negative movie reviews (sentiment analysis)
+- `notebooks/mse/mse.ipynb` is a notebook to learn about the mean squared error (MSE) loss function
 - `notebooks/pets-recognizer/pets-recognizer.ipynb` is a notebook using an existing data set to distinguish between cats and dogs (image classifier)
 
 ## Datasets to train with
+
+Here is a list of publicly available datasets to train with (please feel free to add to it):
 
 - [Census Income Data Set](https://archive.ics.uci.edu/ml/datasets/Adult)
 - [ImageNet, contains 14,197,122 images](http://www.image-net.org/)
@@ -29,10 +32,6 @@ This is a repository for learning AI, I started the journey following the excell
 - [The MovieLens Dataset](https://dl.acm.org/doi/10.1145/2827872)
 - [The Pascal-VOC dataset for multi-label images classification](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html)
 - [The Oxford-IIIT Pet Dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/)
-
-## Models
-
-- [The resnet18 pre trained model](https://www.kaggle.com/datasets/pytorch/resnet18)
 
 ## Contribution guidelines
 
