@@ -14,6 +14,7 @@ This is a repository for learning AI, I started the journey following the excell
 
 ## Available notebooks
 
+- `notebooks/digits-classifier/digits-classifier.ipynb` is a notebook using an existing data set to recognize handwritten digits (image classifier) (WIP)
 - `notebooks/income-predictor/income-predictor.ipynb` is a notebook using an existing data set to predict if a person makes more than 50k a year (tabular data analysis)
 - `notebooks/is-it-a-bird/is-it-a-bird-creating-a-model-from-your-own-data.ipynb` is a notebook to learn how to create a model from your own data using a birds recognizer as an example (image classifier)
 - `notebooks/jupyter-notebook-101.ipynb` is a notebook to learn the basics of jupyter notebooks
@@ -21,6 +22,7 @@ This is a repository for learning AI, I started the journey following the excell
 - `notebooks/movies-reviews-sentiment-analysis/movies-reviews-sentiment-analysis.ipynb` is a notebook using an existing data set to distinguish between positive and negative movie reviews (sentiment analysis)
 - `notebooks/mse/mse.ipynb` is a notebook to learn about the mean squared error (MSE) loss function
 - `notebooks/pets-recognizer/pets-recognizer.ipynb` is a notebook using an existing data set to distinguish between cats and dogs (image classifier)
+- `notebooks/simple-linear-regression/simple-linear-regression.ipynb` is a notebook to learn about simple linear regression
 
 ## Datasets to train with
 
