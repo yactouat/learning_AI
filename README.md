@@ -1,16 +1,10 @@
 # learning AI
 
-- [learning AI](#learning-ai)
-  - [What is this?](#what-is-this)
-  - [Contribution guidelines](#contribution-guidelines)
-  - [Code Viz](#code-viz)
-  - [Contributors](#contributors)
-
 ## What is this?
 
 This is a repository for learning AI, I started the journey following the excellent [fast.ai](https://course.fast.ai/) course, and I will continue to add more stuff as I learn more.
 
-You should use it with Visual Studio Code, Docker, and the dev container configuration that is included in this repository. Dev container has been tested with a Windows 11 laptop equiped with an Nvidia GPU the NVidia CUDA Toolkit.
+Python requirements are specified in the `requirements.txt` file.
 
 ## Contribution guidelines
 
