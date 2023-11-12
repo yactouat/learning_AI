@@ -3,3 +3,6 @@ fastbook
 ipykernel 
 matplotlib
 opencv-python
+pandas
+scipy
+seaborn
