@@ -1,2 +1,4 @@
 *.code-workspace
 id_ed25519
+notebooks/.env
+notebooks/vertex-ai-sa.json
